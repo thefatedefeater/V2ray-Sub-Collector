@@ -50,6 +50,6 @@ jobs:
         author_email: "actions@github.com"
         message:  "👾🤖Auto update💀 📌"
         add: "."
-        push: "https://github.com/darknessm427/V2ray-Sub-Collector.git"
+        push: "https://github.com/thefatedefeater/V2ray-Sub-Collector.git"
     env:
       GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
